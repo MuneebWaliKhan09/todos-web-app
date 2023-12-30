@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input{
+    color: rgb(39, 39, 39);
+}
